@@ -1,0 +1,2 @@
+This is a very important document for learning git.
+I can simply alter this file to anything using this version control software.
