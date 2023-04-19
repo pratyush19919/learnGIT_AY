@@ -1,0 +1,3 @@
+This is the second chapter in the git learning process.
+It will be added and cloned to the repository right now.
+Im learning git.

@@ -1,0 +1,4 @@
+Hi there!
+Welcome to chapter3 in Git learning curve.
+We will right now make a highly sophisticated process.
+On a whole im excited.
