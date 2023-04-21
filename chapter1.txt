@@ -1,2 +1,3 @@
 This is a very important document for learning git.
 I can simply alter this file to anything using this version control software.
+added his line in the paallel plot.This is a branch from master callled parallel.
